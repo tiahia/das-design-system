@@ -19,7 +19,7 @@ There are 2 ways to use the messages component. You can use HTML or, if you are 
 This component has been used in:
 
 - Claim fees for Crown court defence (Legal Aid Agency)
-- Track a query (Ministry of Justice)
+- Track a query (the Apprenticeship service)
 
 ## Contribute to this component
 

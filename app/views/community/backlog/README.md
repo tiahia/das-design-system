@@ -1,4 +1,4 @@
-The Design System is built upon the research and experience of teams across the Ministry of Justice.
+The Design System is built upon the research and experience of teams across the the Apprenticeship service.
 
 Anyone can propose, develop or contribute to new patterns and components, or improvements to existing ones.
 

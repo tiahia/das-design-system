@@ -1,4 +1,4 @@
-Anyone can propose a new component or pattern for the MOJ Design System.
+Anyone can propose a new component or pattern for the Apprenticeship service Design System.
 
 To be successful, proposals need to show that the component or pattern being suggested would be [useful and unique](/community/contribution-criteria/).
 
