@@ -3,7 +3,7 @@ Use the favourites link component to give users access to their saved favourites
 {{ dsExample({
   name: 'favourites-link',
   example: 'default',
-  height: 125
+  height: 150
 }) }}
 
 ## When to use this component
