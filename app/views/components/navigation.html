@@ -1,4 +1,4 @@
-{{ appSubNavigation({
+<!-- {{ appSubNavigation({
   items: [
     {
       text: 'Add another',
@@ -134,6 +134,21 @@
       text: 'Timeline',
       href: '/components/timeline',
       selected: pageId == 'timeline'
+    }
+  ]
+}) }} -->
+
+{{ appSubNavigation({
+  items: [
+    {
+      text: 'Employer header',
+      href: '/components/employer-header',
+      selected: pageId == 'employer-header'
+    },
+    {
+      text: 'Favourites link',
+      href: '/components/favourites-link',
+      selected: pageId == 'favourites-link'
     }
   ]
 }) }}

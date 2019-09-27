@@ -1,9 +1,16 @@
-Use the favourites link component to give users access to their saved favourites.
+Use the employer header to...
 
 {{ dsExample({
-  name: 'favourites-link',
+  name: 'employer-header',
   example: 'default',
-  height: 125
+  height: 250
+}) }}
+
+
+{{ dsExample({
+  name: 'employer-header',
+  example: 'with-favourites-link',
+  height: 280
 }) }}
 
 ## When to use this component
