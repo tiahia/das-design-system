@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ministryofjustice/mojdt-design-system#readme",
   "dependencies": {
     "@ministryofjustice/frontend": "0.0.15-alpha",
-    "@sensecall/das-frontend-test": "0.0.4-alpha",
+    "@sensecall/das-frontend-test": "0.0.41-alpha",
     "basic-auth": "^2.0.0",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.19.0",
