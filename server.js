@@ -110,6 +110,7 @@ if ((env === 'production' || env === 'staging') && useAuth === 'false') {
 const appViews = [
   path.join(__dirname, '/node_modules/govuk-frontend/'),
   path.join(__dirname, '/node_modules/@ministryofjustice/frontend/'),
+  path.join(__dirname, '/node_modules/@sensecall/das-frontend-test/'),
   path.join(__dirname, 'app/views'),
   path.join(__dirname, 'app/components')
 ];

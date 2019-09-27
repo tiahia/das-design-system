@@ -3,6 +3,7 @@ $govuk-global-styles: true;
 // Import GOV.UK Frontend
 @import "node_modules/govuk-frontend/govuk/all";
 @import "node_modules/@ministryofjustice/frontend/moj/all";
+@import "node_modules/@sensecall/das-frontend-test/das/all";
 
 body {
   margin: 0;
