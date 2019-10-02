@@ -5,7 +5,7 @@ The Apprenticeship service Design System is one place for service teams to find 
 ## Contact the team
 
 The Apprenticeship service Design System is maintained by a team at the the Apprenticeship service. If you want to know more, please email the [Design System
-team](mailto:design-system@digital.justice.gov.uk).
+team](mailto:EMAIL_REQUIRED@digital.education.gov.uk).
 
 ## Installing the design system
 
@@ -147,13 +147,13 @@ _NB. if port 3000 is already in use, the design system will try and find the nex
 ## Support
 This repository is maintained by a team at the the Apprenticeship service. If you’ve got a question or need support you can:
 
-- Email design-system@digital.justice.gov.uk.
+- Email EMAIL_REQUIRED@digital.education.gov.uk.
 - [View known issues on GitHub](https://github.com/ministryofjustice/mojdt-design-system/issues).
 
 ## Contributing
 If you’ve got an idea or suggestion you can:
 
-- Email design-system@digital.justice.gov.uk.
+- Email EMAIL_REQUIRED@digital.education.gov.uk.
 - [Create a GitHub issue](https://github.com/ministryofjustice/mojdt-design-system/issues).
 
 ## Licence

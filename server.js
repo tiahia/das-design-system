@@ -129,7 +129,7 @@ nunjucksEnvironment.addGlobal('getCssCode', fileHelper.getCSSCode);
 nunjucksEnvironment.addGlobal('getJsCode', fileHelper.getJSCode);
 nunjucksEnvironment.addExtension('NunjucksCodeHighlight', highlight);
 
-// Add filters from ESFA Frontend
+// Add filters from DAS Frontend
 let mojFilters = require('./node_modules/@ministryofjustice/frontend/moj/filters/all')();
 mojFilters = Object.assign(mojFilters);
 Object.keys(mojFilters).forEach(function (filterName) {

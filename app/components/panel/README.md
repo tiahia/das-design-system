@@ -18,7 +18,7 @@ In most cases, the panel component is used on confirmation pages, to tell the us
 ```
 {{ appPanel({
     titleText: "Get in touch",
-    html: "If you’ve got a question, idea or suggestion share it in #design-system channel on Slack or email the Design System team on <a class='app-panel__link' href='mailto:design-system@digital.justice.gov.uk'>design-system@digital.justice.gov.uk</a>"
+    html: "If you’ve got a question, idea or suggestion share it in #design-system channel on Slack or email the DAS Design System team on <a class='app-panel__link' href='mailto:EMAIL_REQUIRED@digital.education.gov.uk'>EMAIL_REQUIRED@digital.education.gov.uk</a>"
   })
 }}
 ```
@@ -30,7 +30,7 @@ In most cases, the panel component is used on confirmation pages, to tell the us
     Get in touch
   </h2>
   <p class="app-panel__body">
-    If you’ve got a question, idea or suggestion share it in #design-system channel on Slack or email the Design System team on <a class="app-panel__link" href="mailto:design-system@digital.justice.gov.uk">design-system@digital.justice.gov.uk</a>
+    If you’ve got a question, idea or suggestion share it in #design-system channel on Slack or email the DAS Design System team on <a class="app-panel__link" href="mailto:EMAIL_REQUIRED@digital.education.gov.uk">EMAIL_REQUIRED@digital.education.gov.uk</a>
   </p>
 </div>
 ```

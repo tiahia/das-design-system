@@ -16,7 +16,7 @@ It means that decisions made are fair and unbiased, and that the Design System r
 
 The Apprenticeship service Design System team is looking into the best way of helping people to join the working group.
 
-In the meantime if you are interested in joining the working group email the Design System team at [design-system@digital.justice.gov.uk](mailto:design-system@digital.justice.gov.uk).
+In the meantime if you are interested in joining the working group email the DAS Design System team at [EMAIL_REQUIRED@digital.education.gov.uk](mailto:EMAIL_REQUIRED@digital.education.gov.uk).
 
 ---
 

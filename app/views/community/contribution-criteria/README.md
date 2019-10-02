@@ -1,4 +1,4 @@
-The MOJ follows the [GOV.UK Design System contribution criteria](https://design-system.service.gov.uk/community/contribution-criteria/). The only difference is that contributions will be reviewed by the MOJ's [Design System Working Group](/community/design-system-working-group/).
+The DAS follows the [GOV.UK Design System contribution criteria](https://design-system.service.gov.uk/community/contribution-criteria/). The only difference is that contributions will be reviewed by the DAS's [Design System Working Group](/community/design-system-working-group/).
 
 The contents of the Design System must be of a high quality and meet user needs. To guarantee this, all components and patterns need to meet certain criteria.
 
@@ -81,7 +81,7 @@ The working group reviews the implementation to make sure it is usable, consiste
 
         <p>Both the guidance and any content included in examples must follow the <a href='https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style'>GOV.UK content style guide</a>.</p>
 
-        <p class='govuk-!-margin-bottom-0'>If there is code, it follows the <a href='https://github.com/ministryofjustice/moj-frontend/blob/master/CONTRIBUTING.md#conventions-to-follow'>ESFA Frontend coding standards</a> and is ready to merge in <a href='https://www.npmjs.com/package/@ministryofjustice/frontend'>ESFA Frontend</a>.</p>"
+        <p class='govuk-!-margin-bottom-0'>If there is code, it follows the <a href='https://github.com/skillsfundingagency/das-frontend/blob/master/CONTRIBUTING.md#conventions-to-follow'>DAS Frontend coding standards</a> and is ready to merge in <a href='https://www.npmjs.com/package/@skillsfundingagency/das-frontend'>DAS Frontend</a>.</p>"
       }
     ],
     [

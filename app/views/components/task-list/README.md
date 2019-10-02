@@ -48,4 +48,4 @@ If you have used the task list component, get in touch to share your research fi
 
 ## Contribute to this component
 
-You can contribute to this component via the [design system backlog](https://github.com/ministryofjustice/moj-design-system-backlog/issues/54)
+You can contribute to this component via the [design system backlog](https://github.com/skillsfundingagency/das-design-system/issues/54)

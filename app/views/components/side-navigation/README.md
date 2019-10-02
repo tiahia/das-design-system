@@ -34,4 +34,4 @@ We need more research. If you have used the side navigation component, get in to
 
 ## Contribute to this component
 
-You can contribute to this component via the [design system backlog](https://github.com/ministryofjustice/moj-design-system-backlog/issues/33)
+You can contribute to this component via the [design system backlog](https://github.com/skillsfundingagency/das-design-system/issues/33)
