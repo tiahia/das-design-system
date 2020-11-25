@@ -42,7 +42,7 @@
     "gulp-nodemon": "^2.4.2",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.0",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.1.2",
     "js-beautify": "^1.10.2",
     "markdown-it": "^8.4.1",
     "marked": "^0.7.0",
