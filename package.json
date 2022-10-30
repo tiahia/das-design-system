@@ -30,7 +30,7 @@
     "basic-auth": "^2.0.0",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.19.0",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "clipboard": "^2.0.4",
     "del": "^3.0.0",
     "dotenv": "^6.0.0",
